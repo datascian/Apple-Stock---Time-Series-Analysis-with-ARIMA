@@ -17,4 +17,4 @@ Project steps:
 12. Make Predictions
 13. Evaluate Model Performance
 
-Result: The model has an RMSE of 
+Result: The model has an RMSE of 14.01. This means that the model is able to predict the price of Apple stocks but it will be off by about $14.
